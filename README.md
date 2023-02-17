@@ -2,6 +2,7 @@
 
 - 🔭 Currently in high school
 - 🌱 Learning Ruby, Python, JS, HTML and CSS
+- 🎮 Gamer enthusiast
 
 <div align="center">
   <a href="https://github.com/LucasAraujo-got">
