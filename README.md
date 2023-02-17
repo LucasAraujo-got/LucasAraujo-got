@@ -1,7 +1,7 @@
-## Olá! Me chamo Lucas Araujo!
+## Hello there🤘
 
-- 🔭 Atualmente cursando o ensino médio.
-- 🌱 Aprendendo Ruby, Python, JS, HTML e CSS
+- 🔭 Currently in high school
+- 🌱 Learning Ruby, Python, JS, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/LucasAraujo-got">
