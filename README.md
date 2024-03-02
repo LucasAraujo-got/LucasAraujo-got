@@ -1,4 +1,4 @@
-## Hello there🤘
+## Hello there
 
 - 🔭 Currently in high school
 - 🌱 Learning Ruby, Python, JS, HTML and CSS
