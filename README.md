@@ -1,7 +1,7 @@
 ## Hello there
 
 - 🔭 Currently in high school
-- 🌱 Learning Ruby, Python, JS, HTML and CSS
+- 🌱 Learning Ruby, Ethical Hacking, Python, JS, HTML and CSS
 - 🎮 Gamer enthusiast
 
 <div align="center">
