@@ -1,6 +1,7 @@
 ## Hello there
 
-- 🔭 Currently in high school
+- 🔭 Academic in information systems
+- 👨‍🎓 IT technician
 - 🌱 Learning Ruby, Ethical Hacking, Python, JS, HTML and CSS
 - 🎮 Gamer enthusiast
 
