@@ -1,8 +1,8 @@
 ## Hello there
 
-- 🔭 Academic in information systems
+- 🔭 Academic in Information Systems
 - 👨‍🎓 IT technician
-- 🌱 Learning Ruby, Ethical Hacking, Python, JS, HTML and CSS
+- 🌱 Learning Ruby, Python, JS, HTML and CSS
 - 🎮 Gamer enthusiast
 
 <div align="center">
